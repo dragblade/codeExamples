@@ -1,3 +1,6 @@
+<?php
+
+?>
 <script type="text/javascript">
 
     function validarEmail(field){
@@ -31,3 +34,4 @@
             return false;
         }
     }
+</script>
